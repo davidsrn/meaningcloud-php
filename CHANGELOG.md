@@ -7,6 +7,9 @@
 ### Removed
 - Text Classification 1.1 has been removed in *MCClassRequest* class.
 
+### Fixed
+- Documentation has been rewritten to match class 1.1 removal.
+
 ## 2.0
 
 ### Added
